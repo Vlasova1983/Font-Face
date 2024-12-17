@@ -50,7 +50,7 @@ section{
 .title{
     position: relative;
     text-transform: uppercase;
-    font-family:"Francois One", serif ;
+    font-family:"Francois One", sans-serif ;
     font-size: 36px;  
     line-height: 48px; 
     letter-spacing: 0.04em;    
